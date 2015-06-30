@@ -1,0 +1,20 @@
+{
+  "name": "d3-cast",
+  "version": "0.0.0",
+  "homepage": "https://github.com/shakdwipeea/d3-es6-seed",
+  "authors": [
+    "Akash Shakdwipeea <ashakdwipeea@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "~3.5.5",
+    "lodash": "~3.9.3"
+  }
+}
